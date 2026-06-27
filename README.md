@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Ana Carolina de Souza! 👋
 
-<!--
-**souza-anacarolina/souza-anacarolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo como **Analista de Suporte Sênior** com mais de 5 anos de experiência e estou em transição de carreira para **Engenharia de Dados**. 
 
-Here are some ideas to get you started:
+Com uma base prática consolidada em SQL, modelagem de banco de dados e observabilidade com Grafana, hoje foco meus estudos na automação e construção de pipelines de dados eficientes utilizando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+* **Forte Bagagem (Dia a dia):** SQL | PostgreSQL | Grafana | Sistemas ERP | Resolução de Problemas
+* **Aprendendo & Praticando Ativamente:** Python | Git & GitHub | Docker 
+* **Próximos Passos (Teoria & Projetos):** Pandas | Apache Airflow | dbt | Cloud Computing
+
+---
+
+### 📬 Onde me encontrar
+
+* **LinkedIn:** [linkedin.com/in/souza-anacarolina](https://linkedin.com/in/souza-anacarolina)
+* **E-mail:** [souzacarol874@gmail.com](mailto:souzacarol874@gmail.com)
